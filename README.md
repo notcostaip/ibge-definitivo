@@ -1,73 +1,94 @@
-# Welcome to your Lovable project
+<div align="center">
 
-## Project info
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:991b1b&height=230&section=header&text=IBGE%20Definitivo&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Lovable%20AI%20Generated%20Project&descAlignY=55&descSize=18&descColor=fca5a5" />
 
-**URL**: https://lovable.dev/projects/cba18e43-d4ef-47b3-8b5a-5c6b5a0c4e99
+<br/>
 
-## How can I edit this code?
+<!-- BADGES -->
+<div>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
 
-There are several ways of editing your application.
+<br/>
 
-**Use Lovable**
+Este é um projeto gerado com inteligência artificial usando a plataforma **Lovable**.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/cba18e43-d4ef-47b3-8b5a-5c6b5a0c4e99) and start prompting.
+</div>
 
-Changes made via Lovable will be committed automatically to this repo.
+<br/>
 
-**Use your preferred IDE**
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+<!-- TECH STACK -->
+<div align="center">
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### &nbsp; 🛠️ Tech Stack
 
-Follow these steps:
+<br/>
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+<img src="https://skillicons.dev/icons?i=vite,react,ts,tailwind&theme=dark" alt="Tech" />
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+<br/><br/>
 
-# Step 3: Install the necessary dependencies.
-npm i
+</div>
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+- **[Vite](https://vitejs.dev/)**
+- **[React](https://reactjs.org/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Tailwind CSS](https://tailwindcss.com/)**
+- **[shadcn/ui](https://ui.shadcn.com/)**
+
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
+
+<!-- HOW TO RUN -->
+<div align="center">
+
+### &nbsp; 📦 Como rodar localmente
+
+</div>
+
+### 1. Clone o repositório
+```bash
+git clone https://github.com/notcostaip/ibge-definitivo.git
+cd ibge-definitivo
+```
+
+### 2. Instale as dependências
+```bash
+npm install
+```
+
+### 3. Inicie o servidor
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+<!-- RED ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/notcostaip/notcostaip/main/assets/red-divider.svg" width="100%">
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+<!-- DEPLOYMENT -->
+<div align="center">
 
-**Use GitHub Codespaces**
+### &nbsp; 🌐 Lovable Integration
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+</div>
 
-## What technologies are used for this project?
+Alterações feitas via [Lovable Project](https://lovable.dev/projects/cba18e43-d4ef-47b3-8b5a-5c6b5a0c4e99) serão commitadas automaticamente neste repositório. Da mesma forma, alterações em código (via IDE ou GitHub Codespaces) serão refletidas lá.
 
-This project is built with:
+<br/>
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+<!-- FOOTER -->
+<div align="center">
 
-## How can I deploy this project?
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:991b1b&height=130&section=footer" />
 
-Simply open [Lovable](https://lovable.dev/projects/cba18e43-d4ef-47b3-8b5a-5c6b5a0c4e99) and click on Share -> Publish.
+<br/>
 
-## Can I connect a custom domain to my Lovable project?
+**Feito por [Costa](https://github.com/notcostaip) com ☕ e muita diversão.**
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+</div>
