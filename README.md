@@ -89,6 +89,6 @@ Alterações feitas via [Lovable Project](https://lovable.dev/projects/cba18e43-
 
 <br/>
 
-**Feito por [Costa](https://github.com/notcostaip) com ☕ e muita diversão.**
+**Created by [Costa](https://github.com/notcostaip)**
 
 </div>
